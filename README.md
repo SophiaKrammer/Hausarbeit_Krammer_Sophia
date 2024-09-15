@@ -1,6 +1,6 @@
 # Hausarbeit_Krammer_Sophia
 
-# Counterfactual Explanations for Credit Scoring Models
+# Counterfactual Explanations in Credit Scoring: A User-Centric Evaluation of Interpretability
 
 ## Table of Contents
 - [Description](#description)
